@@ -1,4 +1,4 @@
-# Online-LSPD-Record-PHP
+# Online LSPD (Los Santos Police Department) Record (PHP)
 Made for fun.
 
 Login page:
