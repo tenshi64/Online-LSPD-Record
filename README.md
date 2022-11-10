@@ -5,5 +5,6 @@ A fully functional SQL database, administrator system, the ability to save peopl
 Badge number: 1<br />
 Password: lspd
 
-## Login page:
+## Some screenshots:
 ![alt text](https://github.com/elefelen/Online-LSPD-Record-PHP/blob/main/1.PNG)
+![alt text](https://github.com/elefelen/Online-LSPD-Record-PHP/blob/main/2.PNG)
