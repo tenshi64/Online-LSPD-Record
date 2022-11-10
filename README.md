@@ -1,4 +1,4 @@
-# Online LSPD (Los Santos Police Department) Record (PHP)
+# Online LSPD (Los Santos Police Department) Record
 A fully functional SQL database, administrator system, the ability to enter people into the file, create new site users and much more!
 
 ## Default administrator account
