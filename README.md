@@ -6,5 +6,5 @@ Badge number: 1<br />
 Password: lspd
 
 ## Some screenshots:
-![alt text](https://github.com/elefelen/Online-LSPD-Record-PHP/blob/main/1.PNG)
-![alt text](https://github.com/elefelen/Online-LSPD-Record-PHP/blob/main/2.PNG)
+![alt text](https://github.com/elefelen/Online-LSPD-Record-PHP/blob/main/screenshots/1.PNG)
+![alt text](https://github.com/elefelen/Online-LSPD-Record-PHP/blob/main/screenshots/2.PNG)
