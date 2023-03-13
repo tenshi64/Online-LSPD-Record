@@ -1,5 +1,5 @@
 # Online LSPD (Los Santos Police Department) Record
-A fully functional SQL database, administrator system, the ability to enter people into the file, create new site users and much more!
+A fully functional SQL database with an administrator system, the ability to enter people into a file, create new website users and much more!
 
 ## Default administrator account
 Badge number: 1<br />
